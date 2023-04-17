@@ -1,0 +1,4 @@
+{
+    "C_Cpp.default.cppStandard": "c++17",
+    "cph.language.cpp.Args": "-std=c++17"
+}

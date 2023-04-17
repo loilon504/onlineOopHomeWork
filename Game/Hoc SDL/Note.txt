@@ -1,0 +1,9 @@
+
+blit 1 hình ảnh (bài này rách)
+nhận sự kiện đầu vào
+nhận sự kiện nút bấm bàn phím
+
+load với nhiều loại ảnh
+7
+8
+render 1 phần cho minimap, ...
